@@ -4,7 +4,7 @@ Hi 👋, I'm Reshma<br><br>I am an aspiring and enthusiastic data engineer with 
 
 <img align="right" alt="coding" width = "400" src ="https://static.vecteezy.com/system/resources/previews/000/518/198/original/woman-working-with-computer-bright-colorful-vector-illustration.jpg?w=740">
 
-<br>🔭 I’m currently working on **Azure Data Engineering Projects**<br><br>- 🌱 I'm looking for help with **Data engineering role**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/ReshmaRathod](https://github.com/ReshmaRathod)<br><br>- 📝 I regularly write articles on [https://medium.com/@reshmarathod0000](https://medium.com/@reshmarathod0000)<br><br>- 📫 How to reach me **reshmarathod0000@gmail.com**
+<br>🔭 I’m currently working on **Azure Data Engineering Projects**<br><br>- 🌱 I'm looking for help with **Data engineering role**<br><br>- 👨‍💻 All of my projects are available at [github.com/ReshmaRathod](https://github.com/Reshmarathod?tab=repositories)<br><br>- 📝 I regularly write articles on [https://medium.com/@reshmarathod0000](https://medium.com/@reshmarathod0000)<br><br>- 📫 How to reach me **reshmarathod0000@gmail.com**
 
 
 ## 🌐 Socials:
