@@ -6,7 +6,7 @@ Hi 👋, I'm Reshma<br><br>I am an aspiring and enthusiastic data engineer with 
 
 <br>🔭 I’m currently working on **Azure Data Engineering Projects**<br><br>- 🌱 I'm looking for help with **Data engineering role**<br><br>
 - 👨‍💻 All of my projects are available at [github.com/ReshmaRathod](https://github.com/Reshmarathod?tab=repositories)<br><br>
-- 📝 I regularly write articles on [https://medium.com/@reshmarathod0000](medium.com/@reshmarathod0000)<br><br>
+- 📝 I regularly write articles on [medium.com/@reshmarathod0000](https://medium.com/@reshmarathod0000)<br><br>
 - 📫 How to reach me **reshmarathod0000@gmail.com**
 
 
